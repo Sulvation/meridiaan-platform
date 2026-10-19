@@ -1,10 +1,10 @@
 # meridiaan-platform
 This repo contains a fictional company infrastructure platform for learning purposes, and goes hand-in-hand with the Labs repo.
-The follow topics will be covered in the project;
+The following topics will be covered in the project;
 - IaC (bicep/terraform)
 - CI/CD
 - Ansible
-- Logging/anayltics
+- Logging/analytics
 - Containers
 - Kubernetes
 - Reliability
